@@ -1,3 +1,4 @@
 # U.S.S.R. 
-USSR (Unix's Simple Syscall Rotator) is a simplistic *nix* based syscall fuzzer.
+*Use at your own risk*
+USSR (Unix's Simple Syscall Rifler) is a simplistic *nix* based syscall fuzzer.
 
